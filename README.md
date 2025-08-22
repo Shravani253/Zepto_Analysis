@@ -1,5 +1,5 @@
 # Zepto_Analysis
-Zepto Analysis
+Zepto Analysis : SQL-based exploration and analysis
 This repository contains an analysis of Zepto dataset (CSV file), uploaded in UTF-8 encoding with comma delimiter.
 
 Key highlights of the project:
